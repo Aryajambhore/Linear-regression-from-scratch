@@ -43,6 +43,11 @@ Depending on your implementation, these might include:
   - `Transmission`
 
 ---
+## 📈 Result Visualization
+
+Below is the regression line fit to the car selling price data using your model:
+
+![Car Price Prediction](price_plt.png)
 
 ## 🧠 Model Summary
 
